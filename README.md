@@ -1,11 +1,11 @@
 
 # A  PyTorch  Data set access code  for viewing Cityscapes-dataset 
-# cityscapes-dataset contains three main folder thats of interest  for any beginner to experiment with, but here we have used minimal code for loading the dataset 
+# Cityscapes-dataset contains three main folder thats of interest  for any beginner to experiment with, but here we have used minimal code for loading the dataset by making use of torchvision data set functions and class
 
 # To Implement 
   Dataset loader for iterating\
   Deep FCNN \
-  Loss functions for training\
+  Loss functions for training
   
 
 # Reference
